@@ -8,7 +8,7 @@ Multigen makes and organizes images from written descriptions on your Mac. This 
 
 ## Report a bug
 
-In Multigen, click the help button at the top of the window and choose Submit bug report, or choose Help > Report a Bug… in the menu bar. You can also email support@motionproto.com.
+In Multigen, click the help button at the top of the window and choose Report a bug, or choose Help > Report a Bug… in the menu bar. You can also email support@motionproto.com.
 
 ## Terms
 
